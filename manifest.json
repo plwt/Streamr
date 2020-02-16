@@ -1,0 +1,26 @@
+{
+  "manifest_version": 2,
+  "version": "1.1",
+  "name": "Streamr",
+  "theme": {
+    "images": {},
+    "properties": {},
+    "colors": {
+      "toolbar": "rgb(13, 0, 154)",
+      "toolbar_text": "rgb(248, 248, 248)",
+      "frame": "rgb(50, 50, 50)",
+      "tab_background_text": "rgb(248, 248, 248)",
+      "toolbar_field": "rgb(255, 255, 255)",
+      "toolbar_field_text": "rgb(50, 50, 50)",
+      "toolbar_field_border": "rgb(255, 92, 0)",
+      "toolbar_field_border_focus": "rgb(255, 92, 0)",
+      "tab_line": "rgb(255, 92, 0)",
+      "popup": "rgb(82, 82, 82)",
+      "popup_text": "rgb(248, 248, 248)",
+      "tab_loading": "rgb(255, 92, 0)",
+      "ntp_background": "rgb(82, 82, 82)",
+      "ntp_background_text": "rgb(248, 248, 248)",
+      "ntp_text": "rgb(248, 248, 248)"
+    }
+  }
+}
